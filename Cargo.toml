@@ -1,0 +1,8 @@
+[package]
+name = "r2d2_gluster"
+version = "0.1.0"
+authors = ["Chris Holcombe <xfactor973@gmail.com>"]
+
+[dependencies]
+gfapi-sys  = "~0.3" # gfapi
+r2d2 = "~0.8"
